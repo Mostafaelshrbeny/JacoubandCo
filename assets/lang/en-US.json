@@ -1,0 +1,156 @@
+{
+  "Cash in Bank": "Total portfolio",
+  "editCash":"Edit Number",
+  "Notification": "Notifications",
+  "Search Groups": "Search Groups",
+  "All Companies":"All Companies",
+  "Add Company":"Add Company",
+  "Show Card":"Show Card",
+  "Show":"Show",
+  "Hide":"Hide",
+  "Edit":"Edit",
+  "Delete":"Delete",
+  "Edit Company":"Edit Company",
+  "EditCo":{
+    "Upload Logo":"Upload Logo",
+    "Company Name":"Company Name",
+    "Company Share":"Company Share",
+    "Company Bio":"Company Bio",
+    "Show/Hide": "Show/Hide",
+    "Link":"Link"
+  },
+  "deleteCo":{
+    "DelAsk":"Are you sure you want to delete",
+    "Yes":"Yes",
+    "No":"No"
+  },
+  "HoriSlide": {
+    "pin": "Pin",
+    "unpin": "Unpin",
+    "Unread": "Unread"
+  },
+  "Create Group":"Create Group",
+  "Next":"Next",
+  "Group Info": {
+    "Add Participants":"Add Participants",
+    "User Info": "User Info",
+    "Remove from Group": "Remove from Group",
+    "Search Participants":"Search Participants",
+    "Edit Group":"Edit Group",
+    "Upload Image":"Upload Image",
+    "Group Name":"Group Name",
+    "Description":"Description",
+    "seach group": "Search Group",
+    "Media, Links, and Docs": "Media, Links, and Docs",
+    "mute":{
+      "muteGroup":"Mute Group",
+      "No mute":"unmute",
+      "oneweek":"1 week",
+      "twoweek":"2 weeks"
+    },
+    "SaveMediaSETT": {
+      "AlwaysSave": "Always",
+      "NotSave": "Never",
+      "off":"Default (OFF)",
+      "SaveMedia": "Save to Camera Roll"
+    },
+    "Participants":"Participants",
+    "exit":"Exit Group",
+    "tabs":{
+      "Media":"Media",
+      "medianum":"photos and videos",
+      "links":"Links",
+      "Docs":"Docs",
+      "docsnum":"documents"
+    }
+  },
+  "postCopy":"Copy",
+  "Postsave":"Save",
+  "PostDel":"Delete",
+  "Comments":"All Comments",
+  "typeMessage":"Type your message...",
+  "editProfile":"Edit Profile",
+  "Email":"Email",
+  "Groups":"Groups",
+  "Edit User":"Edit User",
+  "Phone":"Phone Number",
+  "Location":"Location",
+  "Bio":"Bio",
+  "Additional":"Additional",
+  "AdditionalSet":{
+    "Settings":"Settings",
+    "Support":"Support"
+  },
+  "Upload your image":"Upload your image",
+  "Update your Email":"Update your Email",
+  "Update your Phone Number": "Update your Phone Number",
+  "Update your Bio":"Update your Bio",
+  "Upload image":"Upload image",
+  "Update Email":"Update Email",
+  "Update Phone Number": "Update Phone Number",
+  "Update Bio":"Update Bio",
+  "Delete User":"Delete User",
+  "Save Changes":"Save Changes",
+  "Update your Password":"Update your Password",
+  "Update Password":"Update Password",
+  "password":{
+    "Old Password":"Old Password",
+    "New Password":"New Password",
+    "Confirm New Password": "Confirm New Password"
+
+  },
+  "Changes are Saved Successfully": "Changes are Saved\nSuccessfully",
+  "Allsettings":{
+    "App Settings":"App Settings",
+    "Chat Wallpaper":"Chat Wallpaper",
+    "General Settings": "General Settings",
+    "Add Wallpapers":"Add Wallpapers",
+    "Add Wallpaper":"Add Wallpaper",
+    "Face ID":"Face ID",
+    "faceOp":{
+      "on":"Default (Enabled)",
+      "off":"Disable"
+    },
+    "Two-step Verification":"Two-step Verification",
+    "TwoStepOp":{
+      "on":"On",
+      "Off":"Off"
+    },
+    "Language":"Language",
+    "lang":{
+      "English":"English",
+      "Czech":"Czech"
+    },
+    "Currency":"Currency"
+  },
+  "wallpaper":{
+    "Choose Wallpaper":"Choose Wallpaper",
+    "Choose from Camera Roll":"Choose from Camera Roll"
+  },
+  "twoStepPage":{
+    "Create a PIN ":"Create a PIN for extra security. Use the PIN to access your account",
+    "Turn ON":"Turn ON",
+    "Create a 4":"Create a 4-digit PIN that you can remember",
+    "Confirm PIN":"Confirm PIN",
+    "Wait while processing":"Wait while processing the verification PIN activation",
+    "Change PIN": "Change PIN",
+    "Turn OFF":"Turn OFF",
+    "Two-step verification is on":"Two-step verification is on. You’ll need to enter your PIN if you register your phone number on JP App again."
+  },
+  "SupportUserPage":{
+    "Name":"Name",
+    "Email":"Email",
+    "Subject":"Subject",
+    "TypeYourMessage":"Type your message",
+    "Send Message":"Send Message"
+  },
+  "Support Tickets":"Support Tickets",
+  "AdminSupport":{
+    "Name":"Name",
+    "Subject": "Subject",
+    "Status":"Status",
+    "Close Ticket":"Close Ticket",
+    "Ticket": "Ticket"
+
+  }
+}
